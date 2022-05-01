@@ -1,0 +1,82 @@
+<svg fill="none" viewBox="0 0 300 150" width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				:root {
+					--wiki-logo: url('https://github.com/matan-chan/matan-chan/blob/main/assets/wikipedia.png');
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					30% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+				.container {
+					font-family:
+					system-ui,
+					-apple-system,
+					'Segoe UI',
+					Roboto,
+					Helvetica,
+					Arial,
+					sans-serif,
+					'Apple Color Emoji',
+					'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					
+				;
+					width: 300px;
+					height: 150px;
+				background: linear-gradient(-45deg, #093129, #237a57, #191754);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 5px;
+					color: white;
+					
+				}
+
+				p {
+					font-size: 15px;
+					margin-bottom:5px;
+					text-shadow: 0 1px 0 #efefef;
+					opacity: 0;
+					margin-left: 10px;
+					animation: 1s ease 0s normal forwards 1 fadeIn;
+				}
+				img {
+					width: 30px;
+					height: 30px;
+					animation: 1s ease 0s normal forwards 1 fadeIn;
+					content: var(--wiki-logo);
+				}
+			</style>
+
+			<div class="container">
+
+				<p>רשת קונבולוציה</p>
+				<p>Lenguage: hebrew</p>
+				<p>Length: ★★★★</p>
+					<!--★=5k-->
+			</div>
+		</div>
+
+	</foreignObject>
+</svg>
+
