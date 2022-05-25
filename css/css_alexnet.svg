@@ -46,7 +46,7 @@
 					height: 150px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
+					animation: gradientBackground 8s ease infinite;
 					border-radius: 5px;
 					color: white;
 					
@@ -73,7 +73,7 @@
 				<p>AlexNet</p>
 				<p>Lenguage: hebrew</p>
 				<p>Length: ★</p>
-				<!--★=5k-->
+				<!--★=4k-->
 			</div>
 		</div>
 

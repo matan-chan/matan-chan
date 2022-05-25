@@ -35,6 +35,9 @@ Articles that I have created:
     <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%94%D7%95%D7%99_%D7%90%D7%95%D7%91%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D" >
          <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_object_detection.svg?raw=true">
     </a>
+    <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/YOLO" >
+         <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_YOLO.svg?raw=true">
+    </a>
 </div>
 
 Articles that I have added content to them:
