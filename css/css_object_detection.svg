@@ -44,7 +44,7 @@
 				;
 					width: 300px;
 					height: 150px;
-					background: linear-gradient(-45deg, #4C0033, #790252, #AF0171);
+					background: linear-gradient(-45deg, #000000, #59CE8F, #FF1E00);
 					background-size: 600% 400%;
 					animation: gradientBackground 8s ease infinite;
 					border-radius: 5px;
