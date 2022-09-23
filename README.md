@@ -39,7 +39,7 @@ Articles that I have created:
          <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_YOLO.svg?raw=true">
     </a>
     <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/Diffusion_model" >
-         <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_Diffusion_model.svg?raw=true">
+         <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_Diffusion_model  .svg?raw=true">
     </a>
 </div>
 
