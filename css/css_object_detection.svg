@@ -44,7 +44,7 @@
 				;
 					width: 300px;
 					height: 150px;
-					background: linear-gradient(-45deg, #D800A6, #400D51, #31E1F7);
+					background: linear-gradient(-45deg, #4C0033, #790252, #AF0171);
 					background-size: 600% 400%;
 					animation: gradientBackground 8s ease infinite;
 					border-radius: 5px;
@@ -195,7 +195,7 @@
 			</style>
 			<div class="container">
 
-				<p>Name: Diffusion model</p>
+				<p>Name: זיהוי עצמים</p>
 				<p>Lenguage: hebrew</p>
 				<p>Length: ★★</p>
 				<!--★=4k-->
