@@ -41,6 +41,12 @@ Articles that I have created:
     <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/Diffusion_model" >
          <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_Diffusion_model.svg?raw=true">
     </a>
+    <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/LAION" >
+         <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_LAION.svg?raw=true">
+    </a>
+    <a style="text-decoration: none;" href="https://he.wikipedia.org/wiki/Attention_(%D7%91%D7%99%D7%A0%D7%94_%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA)" >
+         <img style="width: 270px" src="https://github.com/matan-chan/matan-chan/blob/main/css/css_Attention.svg?raw=true">
+    </a>
 </div>
 
 Articles that I have added content to them:
