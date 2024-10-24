@@ -3,12 +3,11 @@
 [![Website](https://img.shields.io/website?label=matan-chan.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://matan-chan.github.io/matan_mose.github.io) 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-## I'm a Developer mainly interested in deep learning!!
+## I'm a Developer mainly interested in full stack!!
 
-- 👨‍🎓 I’ve just  completed my Bachelor of Science in Computer Science degree!
-- 🌱 I’m currently learning deep learning 🧠
-- 🤔 I’m planing uploading much more projects to my github acc.
-- 🤔 I also contribute to wikipedia by creating new articles or adding to existing ones.
+- 👨‍🎓 I've completed my Bachelor of Science in Computer Science
+- 🤔 I’m planning to upload many more projects to my GitHub account.
+- 🤔 I also contribute to wikipedia by creating new articles or adding to existing ones!
 
 ---
 ## my contribution to wikipedia:
